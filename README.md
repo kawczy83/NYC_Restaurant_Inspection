@@ -1,5 +1,5 @@
 # NYC Restaurant Inspection Dashboard
-Here is some screenshots of my NYC Restaurant Inspection Dashboard on Tablbeau 
+Here is some screenshots of my NYC Restaurant Inspection Dashboard on Tableau 
 
 ![alt-text](https://github.com/kawczy83/NYC_Restaurant_Inspection/blob/main/Restaurant%20Dashboard.png)
 
